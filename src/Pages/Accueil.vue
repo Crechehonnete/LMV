@@ -41,20 +41,20 @@
     <div class="w-full h-full ">
 
 
-     <h1 class=" text-center font-bold text-xl lg:text-3xl py-4 lg:p-8"> Nos Services </h1>
+     <h1 class=" text-center text-black font-bold text-xl lg:text-3xl py-4 lg:p-8"> Nos Services </h1>
 
      <div class="flex flex-row  w-full justify-center    space-x-16 px-8 lg:px-36">
 
 
       <div class="flex flex-col space-y-8 w-[40%]   items-center   text-justify py-[16%] lg:py-40 md:py-24  ">
 <ul class="list-disc text-justify text-[14px] lg:ml-24 lg:text-[24px]  font-semibold">
-  <li>Bureautique</li>
+  <li class="text-black">Bureautique</li>
 
-  <li>Photographie& Infographie</li>
+  <li class="text-black">Photographie& Infographie</li>
 
-  <li>Services en ligne</li>
+  <li class="text-black">Services en ligne</li>
 
-  <li>Web design</li>
+  <li class="text-black">Web design</li>
 </ul>
 
 <button
@@ -89,7 +89,7 @@ class="h-12 lg:h-12  py-2 bg-gray-900/50    font-poppins font-semibold rounded-f
   </section>
 
 
- <section class="h-[550px] w-screen   bg-black" id="propos" >
+ <section class="h-[600px] w-screen   bg-black" id="propos" >
   <div class=" flex flex-col items-center py-8 space-y-4 lg:py-32 h-full  px-12 lg:px-36">
     <div class="space-y-4 h-full">
 <h2 class="text-white font-bold text-md lg:text-3xl text-center " >à propos</h2>
